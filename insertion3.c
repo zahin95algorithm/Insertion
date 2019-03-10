@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define size 10
+#define size 1000000
 int main()
 {
   int c, n, array[1000],d, t;
